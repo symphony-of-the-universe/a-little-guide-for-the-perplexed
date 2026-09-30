@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Thinking Curriculum: A Little Guide for the Perplexed",
+  "description": "Interaktives Curriculum und Bildungsportal für nicht-lineares Denken, relationale Ontologie und die Didaktik des Quantenzeitalters – für Lehrende und Lernende aller Schulstufen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
